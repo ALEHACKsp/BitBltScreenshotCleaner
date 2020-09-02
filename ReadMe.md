@@ -160,7 +160,9 @@ void SaveNewScreenshot(HWND hWnd)
 
 ##### 用途
 
-禁用BitBlt截图反作弊
+游戏会截取用户的桌面上传到服务器，用于判断下是否使用作弊器。
+
+禁用BitBlt截图反作弊。
 
 ##### Test 测试截图
 
